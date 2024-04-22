@@ -1,13 +1,13 @@
 Funcion resultado <- Efectivo ( cant_dinero )
 	
-	
+	     
 Fin Funcion
 
 Algoritmo sin_titulo
 	//Desarrolla un programa en PSeInt que simule el funcionamiento 
-	// de un cajero automático. El programa debe solicitar al //
+	// de un cajero automï¿½tico. El programa debe solicitar al //
 	//usuario ingresar un valor que desea retirar y luego calcular 
-	//la cantidad de billetes de cada denominación (10,000, 20,000,
+	//la cantidad de billetes de cada denominaciï¿½n (10,000, 20,000,
 	//50,000 y 100,000) necesarios para completar el retiro.
 	
 	Definir  vueltos Como Entero
@@ -79,7 +79,7 @@ Algoritmo sin_titulo
 //		
 //	//Fin Para
 //		si Billete_10 < 1 Entonces
-//			Escribir " ingrese un valor válido "
+//			Escribir " ingrese un valor vï¿½lido "
 //		FinSi
 //	
 FinAlgoritmo
